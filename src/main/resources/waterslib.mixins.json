@@ -4,6 +4,7 @@
 	"package": "net.watersfall.waterslib.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
+		"entity.LivingEntityMixin"
 	],
 	"client": [
 	],
